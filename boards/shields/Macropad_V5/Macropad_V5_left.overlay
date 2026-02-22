@@ -1,4 +1,4 @@
-#include <Macropad_V5.dtsi>
+#include "Macropad_V5.dtsi"
 
 / {
     chosen {
