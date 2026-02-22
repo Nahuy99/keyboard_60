@@ -1,0 +1,7 @@
+file_format: "1"
+id: macropad_v5
+name: Macropad_V5
+type: shield
+siblings:
+  - Macropad_V5_left
+  - Macropad_V5_right

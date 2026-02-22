@@ -1,0 +1,5 @@
+config SHIELD_MACRPOADV5_LEFT
+    def bool $(shields_list_contains, Macrpopad_V5_left)
+
+config SHIELD_MACRPOADV5_RIGHT
+    def bool $(shields_list_contains, Macrpopad_V5_right)

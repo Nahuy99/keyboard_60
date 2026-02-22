@@ -20,4 +20,6 @@
 ---
 include:
   - board: nice_nano
-    shield: m60
+    shield: Macropad_V5_left
+  - board: nice_nano
+    shield: Macropad_V5_right

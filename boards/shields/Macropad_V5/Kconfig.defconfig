@@ -1,0 +1,15 @@
+if SHIELD_MACRPOADV5_LEFT
+    config ZMK_KEYBOARD_NAME
+        default "Macropad_V5"
+
+    config ZMK_SPLIT_ROLE_CENTRAL
+        default y
+
+endif
+
+if SHIELD_MACRPOADV5_LEFT || SHIELD_MACRPOADV5_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
