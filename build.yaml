@@ -25,3 +25,9 @@ include:
   - board: nice_nano
     snippet: nrf52840-nosd
     shield: Macropad_V5_right
+  - board: nice_nano
+    shield: settings_reset
+    artifact-name: settings_reset_left
+  - board: nice_nano
+    shield: settings_reset
+    artifact-name: settings_reset_right
