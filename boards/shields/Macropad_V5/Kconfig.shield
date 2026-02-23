@@ -1,5 +1,5 @@
-config SHIELD_MACRPOAD_V5_LEFT
+config SHIELD_MACROPAD_V5_LEFT
     def_bool $(shields_list_contains, Macropad_V5_left)
 
-config SHIELD_MACRPOAD_V5_RIGHT
+config SHIELD_MACROPAD_V5_RIGHT
     def_bool $(shields_list_contains, Macropad_V5_right)
