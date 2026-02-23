@@ -22,8 +22,6 @@ include:
   - board: nice_nano
     snippet: nrf52840-nosd
     shield: Macropad_V5_left
-    cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: nice_nano
     snippet: nrf52840-nosd
     shield: Macropad_V5_right
-    cmake-args: -DCONFIG_ZMK_STUDIO=y
