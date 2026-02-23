@@ -21,9 +21,7 @@
 include:
   - board: nice_nano
     snippet: nrf52840-nosd
-  #- board: nice_nano_v2
-    shield: corne_left
-    #shield: Macropad_V5_left
- # - board: nice_nano_v2
-  #  shield: Macropad_V5_right
-  #  shield: settings_reset
+    shield: Macropad_V5_left
+  - board: nice_nano
+    snippet: nrf52840-nosd
+    shield: Macropad_V5_right
